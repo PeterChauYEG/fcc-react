@@ -1,0 +1,7 @@
+.Buttons {
+  height: 75vmin;
+  width: 75vmin;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
